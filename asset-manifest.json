@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4df298c2.chunk.css",
+    "main.js": "./static/js/main.2802662f.chunk.js",
+    "main.js.map": "./static/js/main.2802662f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c8a3e7d7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c8a3e7d7.js.map",
+    "static/css/2.0a9ec390.chunk.css": "./static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ed83c443.chunk.js": "./static/js/2.ed83c443.chunk.js",
+    "static/js/2.ed83c443.chunk.js.map": "./static/js/2.ed83c443.chunk.js.map",
+    "static/js/3.43a68f62.chunk.js": "./static/js/3.43a68f62.chunk.js",
+    "static/js/3.43a68f62.chunk.js.map": "./static/js/3.43a68f62.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "./static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4df298c2.chunk.css.map": "./static/css/main.4df298c2.chunk.css.map",
+    "static/js/2.ed83c443.chunk.js.LICENSE.txt": "./static/js/2.ed83c443.chunk.js.LICENSE.txt",
+    "static/media/style.css": "./static/media/home.3b29b3cd.jpg",
+    "static/media/mulherLogo318.3786021f.png": "./static/media/mulherLogo318.3786021f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a3e7d7.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ed83c443.chunk.js",
+    "static/css/main.4df298c2.chunk.css",
+    "static/js/main.2802662f.chunk.js"
+  ]
+}
